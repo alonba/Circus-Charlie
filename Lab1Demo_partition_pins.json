@@ -1,0 +1,77 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "life_counter[0]",
+					"strict" : false
+				},
+				{
+					"name" : "life_counter[1]",
+					"strict" : false
+				},
+				{
+					"name" : "life_counter[2]",
+					"strict" : false
+				},
+				{
+					"name" : "life_counter[3]",
+					"strict" : false
+				},
+				{
+					"name" : "score_counter[0]",
+					"strict" : false
+				},
+				{
+					"name" : "score_counter[1]",
+					"strict" : false
+				},
+				{
+					"name" : "score_counter[2]",
+					"strict" : false
+				},
+				{
+					"name" : "score_counter[3]",
+					"strict" : false
+				},
+				{
+					"name" : "score_counter[4]",
+					"strict" : false
+				},
+				{
+					"name" : "score_counter[5]",
+					"strict" : false
+				},
+				{
+					"name" : "score_counter[6]",
+					"strict" : false
+				},
+				{
+					"name" : "score_counter[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "resetN",
+					"strict" : false
+				},
+				{
+					"name" : "hit_type[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hit_type[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hit_type[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

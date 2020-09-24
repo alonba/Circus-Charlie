@@ -1,0 +1,26 @@
+
+State Machine - |TOP_VGA_DEMO_WITH_MSS_ALL|TOP_KBD_DEMOALL:inst18|KBDINTF:inst|lpf:inst5|cur_st
+Name cur_st.ONE 
+cur_st.ZERO 0 
+cur_st.ONE 1 
+
+State Machine - |TOP_VGA_DEMO_WITH_MSS_ALL|TOP_KBD_DEMOALL:inst18|KBDINTF:inst|bitrec:inst4|cur_st
+Name cur_st.CHK_DATA_ST cur_st.HI_CLK_ST cur_st.LOW_CLK_ST cur_st.IDLE_ST cur_st.NEW_DATA_ST 
+cur_st.IDLE_ST 0 0 0 0 0 
+cur_st.LOW_CLK_ST 0 0 1 1 0 
+cur_st.HI_CLK_ST 0 1 0 1 0 
+cur_st.CHK_DATA_ST 1 0 0 1 0 
+cur_st.NEW_DATA_ST 0 0 0 1 1 
+
+State Machine - |TOP_VGA_DEMO_WITH_MSS_ALL|TOP_KBD_DEMOALL:inst18|KBDINTF:inst|byterec:inst3|present_state
+Name present_state.sample_ext_rel_ST present_state.wait_ext_rel_ST present_state.sample_ext_ST present_state.wait_ext_ST present_state.new_break_ST present_state.sample_rel_ST present_state.wait_rel_ST present_state.new_make_ST present_state.sample_nor_ST present_state.idle_ST 
+present_state.idle_ST 0 0 0 0 0 0 0 0 0 0 
+present_state.sample_nor_ST 0 0 0 0 0 0 0 0 1 1 
+present_state.new_make_ST 0 0 0 0 0 0 0 1 0 1 
+present_state.wait_rel_ST 0 0 0 0 0 0 1 0 0 1 
+present_state.sample_rel_ST 0 0 0 0 0 1 0 0 0 1 
+present_state.new_break_ST 0 0 0 0 1 0 0 0 0 1 
+present_state.wait_ext_ST 0 0 0 1 0 0 0 0 0 1 
+present_state.sample_ext_ST 0 0 1 0 0 0 0 0 0 1 
+present_state.wait_ext_rel_ST 0 1 0 0 0 0 0 0 0 1 
+present_state.sample_ext_rel_ST 1 0 0 0 0 0 0 0 0 1 
