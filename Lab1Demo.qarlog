@@ -1,0 +1,48 @@
+Quartus Prime Archive log --	C:/Users/alonb/Desktop/circus_charlie/Lab1Demo.qarlog
+
+Archive:	C:/Users/alonb/Desktop/circus_charlie/Lab1Demo.qar
+Date:		Mon Dec 23 01:25:35 2019
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/alonb/Desktop/circus_charlie/DE10_Standard_Audio.sdc
+C:/Users/alonb/Desktop/circus_charlie/Lab1Demo.qpf
+C:/Users/alonb/Desktop/circus_charlie/Lab1Demo.qsf
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/KBDINTF.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/TOP_KBD_DEMOALL.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/bitrec.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/byterec.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/keyPad_decoder.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/keyToggle_decoder.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/lpf.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/random.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/SinTable.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/TOP_MSS_DEMO.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/ToneDecoder.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/addr_counter.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/data_conversion.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/prescaler.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/Seg7/SEG7.SV
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/NumbersBitMap.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/TOP_VGA_DEMO_WITH_MSS.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/TOP_VGA_DEMO_WITH_MSS_ALL.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/VGA_Controller.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/back_ground_draw.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/game_controller.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/hit_controller.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/objects_mux.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/player_bitmap.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/player_move.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/square_object.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/audio_codec_controller/audio_codec_controller.qxp
+C:/Users/alonb/Desktop/circus_charlie/assignment_defaults.qdf
+C:/Users/alonb/Desktop/circus_charlie/constraints/DE10_Standard_Audio.sdc
+C:/Users/alonb/Desktop/circus_charlie/constraints/pin.tcl
+C:/Users/alonb/Desktop/circus_charlie/topLeftXCONST.bsf
+C:/Users/alonb/Desktop/circus_charlie/topLeftXCONST.qip
+C:/Users/alonb/Desktop/circus_charlie/topLeftXCONST.v
+C:/Users/alonb/Desktop/circus_charlie/topLeftXCONST_bb.v
+	======= Total: 37 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

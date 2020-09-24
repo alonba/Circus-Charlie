@@ -1,0 +1,63 @@
+Quartus Prime Archive log --	C:/Users/alonb/Desktop/circus_charlie/__Lab1Demo.auto.qarlog
+
+Archive:	C:/Users/alonb/Desktop/circus_charlie/__Lab1Demo.auto.qar
+Date:		Sat Dec 21 15:16:26 2019
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/KBDINTF.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/TOP_KBD_DEMOALL.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/bitrec.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/byterec.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/keyPad_decoder.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/keyToggle_decoder.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/lpf.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/KEYBOARD/random.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/SinTable.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/TOP_MSS_DEMO.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/ToneDecoder.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/addr_counter.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/data_conversion.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/MSS/prescaler.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/Seg7/SEG7.SV
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/NumbersBitMap.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/TOP_VGA_DEMO_WITH_MSS.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/TOP_VGA_DEMO_WITH_MSS_ALL.bdf
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/VGA_Controller.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/back_ground_draw.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/back_ground_drawSquare.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/game_controller.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/objects_mux.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/player_move.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/smileyBitMap.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/smileyBitMap4Bit.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/smileyBitMapX2.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/VGA/square_object.sv
+C:/Users/alonb/Desktop/circus_charlie/RTL/audio_codec_controller/audio_codec_controller.qxp
+C:/Users/alonb/Desktop/circus_charlie/constraints/DE10_Standard_Audio.sdc
+C:/Users/alonb/Desktop/circus_charlie/constraints/pin.tcl
+C:/Users/alonb/Desktop/circus_charlie/db/Lab1Demo.qpf
+C:/Users/alonb/Desktop/circus_charlie/db/stp1_auto_stripped.stp
+C:/Users/alonb/Desktop/circus_charlie/output_files/Chain1.cdf
+C:/Users/alonb/Desktop/circus_charlie/output_files/Lab1Demo.done
+C:/Users/alonb/Desktop/circus_charlie/output_files/Lab1Demo.flow.rpt
+C:/Users/alonb/Desktop/circus_charlie/output_files/Lab1Demo.map.rpt
+C:/Users/alonb/Desktop/circus_charlie/output_files/Lab1Demo.map.smsg
+C:/Users/alonb/Desktop/circus_charlie/output_files/Lab1Demo.map.summary
+C:/Users/alonb/Desktop/circus_charlie/output_files/stp1.stp
+DE10_Standard_Audio.sdc
+Lab1Demo.archive.rpt
+Lab1Demo.qarlog
+Lab1Demo.qsf
+Lab1Demo.restore.rpt
+__Lab1Demo.auto.qarlog
+assignment_defaults.qdf
+player_move.bsf
+topLeftXCONST.bsf
+topLeftXCONST.qip
+topLeftXCONST.v
+topLeftXCONST_bb.v
+	======= Total: 52 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

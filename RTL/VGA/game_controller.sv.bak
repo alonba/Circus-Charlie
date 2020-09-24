@@ -1,0 +1,27 @@
+module game_controller 	
+ ( 
+	input	logic  clk,
+	input	logic  resetN, 
+	input	logic	 drawing_request_1,
+	input	logic	 drawing_request_2,
+	output logic collision	
+  ) ;
+
+always_ff @(posedge clk or negedge resetN) begin
+		
+		
+		
+		if(!resetN) begin
+			collision <= 0; 
+		end
+		else begin
+			if (drawing_request_1 && drawing_request_2 )  // inside an external bracket 
+				collision <= 1; 
+			else
+				collision <= 0;
+		end
+	
+	end
+ 
+endmodule
+
